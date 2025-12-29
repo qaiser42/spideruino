@@ -1,7 +1,7 @@
 # spideruino
 A remote-controlled ESP8266-based hexapod.
 
-## Youtube Video
+## Demo Time!
 [![Youtube Video](https://img.youtube.com/vi/oVFrtwVP7xY/0.jpg)](https://www.youtube.com/watch?v=oVFrtwVP7xY)
 
 ### Motivation
@@ -14,11 +14,6 @@ _[...] But if you want to be really unique, use Evil mode on Emacs and cross com
 [^1]: Espruino allows to use JavaScript directly on a ESP chip.
 
 At this point you might be asking *what the heck is a [ESP8266](https://en.wikipedia.org/wiki/ESP8266)?* I'm glad that you asked. Originally it was/is used as a WiFi shield for [Arduino computers](https://www.arduino.cc/). But the truth of the matter is that the ESP is already powerful enough for building diverse DIY applications. Just look at the vast amount of projects based on it: [https://hackaday.com/tag/esp8266/](https://hackaday.com/tag/esp8266/).
-
-### Demo Time!
-Before explaining all of the nitty gritty details, first have a look at the final "result"
-
-<iframe width="600" height="415" src="https://www.youtube.com/embed/oVFrtwVP7xY" frameborder="0" allowfullscreen></iframe>
 
 ### ELI5: How did you build it?
 
